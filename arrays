@@ -1,0 +1,5 @@
+
+sports = ["basketball", "baseball", "football"] 
+sports.each do |sports| 
+puts "#{sports}" 
+end 
